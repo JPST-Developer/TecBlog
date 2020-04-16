@@ -1,0 +1,51 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+ body {
+   font-size: 1em;
+   font-family: Roboto, "Trebuchet MS", sans-serif;
+   background: #e6e6e6;
+ }
+
+ #header-container {
+   background-color: #f7b600;
+   text-align: center;
+   padding: 15px;
+ }
+
+#logo-container, #menu-container {
+  padding: 10px;
+}
+
+#rodape {
+  clear: both;
+  text-align: center;
+  padding: 15px;
+  background-color: #ccc;
+}
+
+h1 {
+  color: #4e4e4e;
+  font-size: 2.5em;
+}
+
+.white {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+#menu-container a{
+  padding: 10px;
+  color: white;
+  font-weight: 600;
+}
+
+#menu-container a:hover {
+  background-color: white;
+  color: #f7b600;
+}
+

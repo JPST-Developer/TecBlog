@@ -1,0 +1,61 @@
+#content {
+  width: 920px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+#posts {
+  width: 660px;
+  float: left;
+  margin-bottom: 20px;
+}
+
+#area-lateral {
+  width: 240px;
+  float: right;
+}
+
+h2 {
+  color: #f7b600;
+  margin-top: 50px;
+}
+
+h3 {
+  color: #565656;
+  background: #ccc;
+  padding: 5px;
+}
+
+img {
+  margin-top: 20px;
+}
+
+a.ler-mais {
+  color: #f7b600;
+  font-weight: 600;
+}
+
+a.ler-mais:hover {
+  text-decoration: underline;
+}
+
+.data-post {
+  font-size: 0.8em;
+  border-bottom: 1px solid #ccc;
+  display: block;
+}
+
+.conteudo-lateral {
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.conteudo-lateral a {
+  color: #f7b600;
+}
+
+.postagem-lateral {
+  font-size: 0.8em;
+  padding: 5px;
+  border-bottom: 1px solid #ccc;
+}
